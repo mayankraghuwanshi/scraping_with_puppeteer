@@ -1,5 +1,7 @@
 To localhost please follow the below instructions-
 ```
+$ git clone https://github.com/mayankraghuwanshi/scraping_with_puppeteer.git
+$ cd scraping_with_puppeteer
 $ npm install
 $ touch conf.js
 ```
